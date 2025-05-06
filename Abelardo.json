@@ -14,3 +14,10 @@
     "allowOffline": false
   }
 ]
+  {
+    "id": "27de022eea2be413",
+    "username": "Abelardo-MZ",
+    "password": "Cande",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
